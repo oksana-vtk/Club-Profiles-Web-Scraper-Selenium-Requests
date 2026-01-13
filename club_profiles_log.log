@@ -1,0 +1,403 @@
+
+
+2026-01-13 00:43:00 - INFO - URL: **SEARCH URL**
+2026-01-13 00:43:13 - INFO - Start driver...
+2026-01-13 00:43:13 - INFO - Popup closed successfully.
+2026-01-13 00:43:14 - INFO - Trying to open search panel...
+2026-01-13 00:43:15 - INFO - Search panel expanded successfully!
+2026-01-13 00:43:21 - INFO - Found 323 clubs
+2026-01-13 00:43:21 - INFO - Extraction [1/323]
+2026-01-13 00:43:21 - INFO - Extraction [2/323]
+2026-01-13 00:43:21 - INFO - Extraction [3/323]
+2026-01-13 00:43:21 - INFO - Extraction [4/323]
+2026-01-13 00:43:21 - INFO - Extraction [5/323]
+2026-01-13 00:43:22 - INFO - Extraction [6/323]
+2026-01-13 00:43:22 - INFO - Extraction [7/323]
+2026-01-13 00:43:22 - INFO - Extraction [8/323]
+2026-01-13 00:43:22 - INFO - Extraction [9/323]
+2026-01-13 00:43:22 - INFO - Extraction [10/323]
+2026-01-13 00:43:22 - INFO - Extraction [11/323]
+2026-01-13 00:43:23 - INFO - Extraction [12/323]
+2026-01-13 00:43:23 - INFO - Extraction [13/323]
+2026-01-13 00:43:23 - INFO - Extraction [14/323]
+2026-01-13 00:43:23 - INFO - Extraction [15/323]
+2026-01-13 00:43:24 - INFO - Extraction [16/323]
+2026-01-13 00:43:24 - INFO - Extraction [17/323]
+2026-01-13 00:43:24 - INFO - Extraction [18/323]
+2026-01-13 00:43:24 - INFO - Extraction [19/323]
+2026-01-13 00:43:24 - INFO - Extraction [20/323]
+2026-01-13 00:43:25 - INFO - Extraction [21/323]
+2026-01-13 00:43:25 - INFO - Extraction [22/323]
+2026-01-13 00:43:25 - INFO - Extraction [23/323]
+2026-01-13 00:43:25 - INFO - Extraction [24/323]
+2026-01-13 00:43:26 - INFO - Extraction [25/323]
+2026-01-13 00:43:26 - INFO - Extraction [26/323]
+2026-01-13 00:43:26 - INFO - Extraction [27/323]
+2026-01-13 00:43:26 - INFO - Extraction [28/323]
+2026-01-13 00:43:26 - INFO - Extraction [29/323]
+2026-01-13 00:43:27 - INFO - Extraction [30/323]
+2026-01-13 00:43:27 - INFO - Extraction [31/323]
+2026-01-13 00:43:27 - INFO - Extraction [32/323]
+2026-01-13 00:43:27 - INFO - Extraction [33/323]
+2026-01-13 00:43:28 - INFO - Extraction [34/323]
+2026-01-13 00:43:28 - INFO - Extraction [35/323]
+2026-01-13 00:43:28 - INFO - Extraction [36/323]
+2026-01-13 00:43:28 - INFO - Extraction [37/323]
+2026-01-13 00:43:28 - INFO - Extraction [38/323]
+2026-01-13 00:43:29 - INFO - Extraction [39/323]
+2026-01-13 00:43:29 - INFO - Extraction [40/323]
+2026-01-13 00:43:29 - INFO - Extraction [41/323]
+2026-01-13 00:43:29 - INFO - Extraction [42/323]
+2026-01-13 00:43:30 - INFO - Extraction [43/323]
+2026-01-13 00:43:30 - INFO - Extraction [44/323]
+2026-01-13 00:43:30 - INFO - Extraction [45/323]
+2026-01-13 00:43:30 - INFO - Extraction [46/323]
+2026-01-13 00:43:30 - INFO - Extraction [47/323]
+2026-01-13 00:43:31 - INFO - Extraction [48/323]
+2026-01-13 00:43:31 - INFO - Extraction [49/323]
+2026-01-13 00:43:31 - INFO - Extraction [50/323]
+2026-01-13 00:43:31 - INFO - Extraction [51/323]
+2026-01-13 00:43:31 - INFO - Extraction [52/323]
+2026-01-13 00:43:32 - INFO - Extraction [53/323]
+2026-01-13 00:43:32 - INFO - Extraction [54/323]
+2026-01-13 00:43:32 - INFO - Extraction [55/323]
+2026-01-13 00:43:32 - INFO - Extraction [56/323]
+2026-01-13 00:43:32 - INFO - Extraction [57/323]
+2026-01-13 00:43:32 - INFO - Extraction [58/323]
+2026-01-13 00:43:33 - INFO - Extraction [59/323]
+2026-01-13 00:43:33 - INFO - Extraction [60/323]
+2026-01-13 00:43:33 - INFO - Extraction [61/323]
+2026-01-13 00:43:33 - INFO - Extraction [62/323]
+2026-01-13 00:43:33 - INFO - Extraction [63/323]
+2026-01-13 00:43:34 - INFO - Extraction [64/323]
+2026-01-13 00:43:34 - INFO - Extraction [65/323]
+2026-01-13 00:43:34 - INFO - Extraction [66/323]
+2026-01-13 00:43:34 - INFO - Extraction [67/323]
+2026-01-13 00:43:34 - INFO - Extraction [68/323]
+2026-01-13 00:43:35 - INFO - Extraction [69/323]
+2026-01-13 00:43:35 - INFO - Extraction [70/323]
+2026-01-13 00:43:35 - INFO - Extraction [71/323]
+2026-01-13 00:43:35 - INFO - Extraction [72/323]
+2026-01-13 00:43:35 - INFO - Extraction [73/323]
+2026-01-13 00:43:36 - INFO - Extraction [74/323]
+2026-01-13 00:43:36 - INFO - Extraction [75/323]
+2026-01-13 00:43:36 - INFO - Extraction [76/323]
+2026-01-13 00:43:36 - INFO - Extraction [77/323]
+2026-01-13 00:43:36 - INFO - Extraction [78/323]
+2026-01-13 00:43:37 - INFO - Extraction [79/323]
+2026-01-13 00:43:37 - INFO - Extraction [80/323]
+2026-01-13 00:43:37 - INFO - Extraction [81/323]
+2026-01-13 00:43:37 - INFO - Extraction [82/323]
+2026-01-13 00:43:37 - INFO - Extraction [83/323]
+2026-01-13 00:43:38 - INFO - Extraction [84/323]
+2026-01-13 00:43:38 - INFO - Extraction [85/323]
+2026-01-13 00:43:38 - INFO - Extraction [86/323]
+2026-01-13 00:43:38 - INFO - Extraction [87/323]
+2026-01-13 00:43:38 - INFO - Extraction [88/323]
+2026-01-13 00:43:39 - INFO - Extraction [89/323]
+2026-01-13 00:43:39 - INFO - Extraction [90/323]
+2026-01-13 00:43:39 - INFO - Extraction [91/323]
+2026-01-13 00:43:39 - INFO - Extraction [92/323]
+2026-01-13 00:43:39 - INFO - Extraction [93/323]
+2026-01-13 00:43:40 - INFO - Extraction [94/323]
+2026-01-13 00:43:40 - INFO - Extraction [95/323]
+2026-01-13 00:43:40 - INFO - Extraction [96/323]
+2026-01-13 00:43:40 - INFO - Extraction [97/323]
+2026-01-13 00:43:40 - INFO - Extraction [98/323]
+2026-01-13 00:43:41 - INFO - Extraction [99/323]
+2026-01-13 00:43:41 - INFO - Extraction [100/323]
+2026-01-13 00:43:41 - INFO - Extraction [101/323]
+2026-01-13 00:43:41 - INFO - Extraction [102/323]
+2026-01-13 00:43:41 - INFO - Extraction [103/323]
+2026-01-13 00:43:42 - INFO - Extraction [104/323]
+2026-01-13 00:43:42 - INFO - Extraction [105/323]
+2026-01-13 00:43:42 - INFO - Extraction [106/323]
+2026-01-13 00:43:42 - INFO - Extraction [107/323]
+2026-01-13 00:43:42 - INFO - Extraction [108/323]
+2026-01-13 00:43:43 - INFO - Extraction [109/323]
+2026-01-13 00:43:43 - INFO - Extraction [110/323]
+2026-01-13 00:43:43 - INFO - Extraction [111/323]
+2026-01-13 00:43:43 - INFO - Extraction [112/323]
+2026-01-13 00:43:43 - INFO - Extraction [113/323]
+2026-01-13 00:43:44 - INFO - Extraction [114/323]
+2026-01-13 00:43:44 - INFO - Extraction [115/323]
+2026-01-13 00:43:44 - INFO - Extraction [116/323]
+2026-01-13 00:43:44 - INFO - Extraction [117/323]
+2026-01-13 00:43:44 - INFO - Extraction [118/323]
+2026-01-13 00:43:45 - INFO - Extraction [119/323]
+2026-01-13 00:43:45 - INFO - Extraction [120/323]
+2026-01-13 00:43:45 - INFO - Extraction [121/323]
+2026-01-13 00:43:45 - INFO - Extraction [122/323]
+2026-01-13 00:43:45 - INFO - Extraction [123/323]
+2026-01-13 00:43:46 - INFO - Extraction [124/323]
+2026-01-13 00:43:46 - INFO - Extraction [125/323]
+2026-01-13 00:43:46 - INFO - Extraction [126/323]
+2026-01-13 00:43:46 - INFO - Extraction [127/323]
+2026-01-13 00:43:46 - INFO - Extraction [128/323]
+2026-01-13 00:43:47 - INFO - Extraction [129/323]
+2026-01-13 00:43:47 - INFO - Extraction [130/323]
+2026-01-13 00:43:47 - INFO - Extraction [131/323]
+2026-01-13 00:43:47 - INFO - Extraction [132/323]
+2026-01-13 00:43:47 - INFO - Extraction [133/323]
+2026-01-13 00:43:48 - INFO - Extraction [134/323]
+2026-01-13 00:43:48 - INFO - Extraction [135/323]
+2026-01-13 00:43:48 - INFO - Extraction [136/323]
+2026-01-13 00:43:48 - INFO - Extraction [137/323]
+2026-01-13 00:43:48 - INFO - Extraction [138/323]
+2026-01-13 00:43:49 - INFO - Extraction [139/323]
+2026-01-13 00:43:49 - INFO - Extraction [140/323]
+2026-01-13 00:43:49 - INFO - Extraction [141/323]
+2026-01-13 00:43:49 - INFO - Extraction [142/323]
+2026-01-13 00:43:49 - INFO - Extraction [143/323]
+2026-01-13 00:43:50 - INFO - Extraction [144/323]
+2026-01-13 00:43:50 - INFO - Extraction [145/323]
+2026-01-13 00:43:50 - INFO - Extraction [146/323]
+2026-01-13 00:43:50 - INFO - Extraction [147/323]
+2026-01-13 00:43:50 - INFO - Extraction [148/323]
+2026-01-13 00:43:50 - INFO - Extraction [149/323]
+2026-01-13 00:43:50 - INFO - Extraction [150/323]
+2026-01-13 00:43:51 - INFO - Extraction [151/323]
+2026-01-13 00:43:51 - INFO - Extraction [152/323]
+2026-01-13 00:43:51 - INFO - Extraction [153/323]
+2026-01-13 00:43:51 - INFO - Extraction [154/323]
+2026-01-13 00:43:51 - INFO - Extraction [155/323]
+2026-01-13 00:43:51 - INFO - Extraction [156/323]
+2026-01-13 00:43:51 - INFO - Extraction [157/323]
+2026-01-13 00:43:51 - INFO - Extraction [158/323]
+2026-01-13 00:43:52 - INFO - Extraction [159/323]
+2026-01-13 00:43:52 - INFO - Extraction [160/323]
+2026-01-13 00:43:52 - INFO - Extraction [161/323]
+2026-01-13 00:43:52 - INFO - Extraction [162/323]
+2026-01-13 00:43:52 - INFO - Extraction [163/323]
+2026-01-13 00:43:53 - INFO - Extraction [164/323]
+2026-01-13 00:43:53 - INFO - Extraction [165/323]
+2026-01-13 00:43:53 - INFO - Extraction [166/323]
+2026-01-13 00:43:53 - INFO - Extraction [167/323]
+2026-01-13 00:43:53 - INFO - Extraction [168/323]
+2026-01-13 00:43:54 - INFO - Extraction [169/323]
+2026-01-13 00:43:54 - INFO - Extraction [170/323]
+2026-01-13 00:43:54 - INFO - Extraction [171/323]
+2026-01-13 00:43:54 - INFO - Extraction [172/323]
+2026-01-13 00:43:54 - INFO - Extraction [173/323]
+2026-01-13 00:43:55 - INFO - Extraction [174/323]
+2026-01-13 00:43:55 - INFO - Extraction [175/323]
+2026-01-13 00:43:55 - INFO - Extraction [176/323]
+2026-01-13 00:43:55 - INFO - Extraction [177/323]
+2026-01-13 00:43:55 - INFO - Extraction [178/323]
+2026-01-13 00:43:56 - INFO - Extraction [179/323]
+2026-01-13 00:43:56 - INFO - Extraction [180/323]
+2026-01-13 00:43:56 - INFO - Extraction [181/323]
+2026-01-13 00:43:56 - INFO - Extraction [182/323]
+2026-01-13 00:43:56 - INFO - Extraction [183/323]
+2026-01-13 00:43:57 - INFO - Extraction [184/323]
+2026-01-13 00:43:57 - INFO - Extraction [185/323]
+2026-01-13 00:43:57 - INFO - Extraction [186/323]
+2026-01-13 00:43:57 - INFO - Extraction [187/323]
+2026-01-13 00:43:57 - INFO - Extraction [188/323]
+2026-01-13 00:43:58 - INFO - Extraction [189/323]
+2026-01-13 00:43:58 - INFO - Extraction [190/323]
+2026-01-13 00:43:58 - INFO - Extraction [191/323]
+2026-01-13 00:43:58 - INFO - Extraction [192/323]
+2026-01-13 00:43:58 - INFO - Extraction [193/323]
+2026-01-13 00:43:59 - INFO - Extraction [194/323]
+2026-01-13 00:43:59 - INFO - Extraction [195/323]
+2026-01-13 00:43:59 - INFO - Extraction [196/323]
+2026-01-13 00:43:59 - INFO - Extraction [197/323]
+2026-01-13 00:43:59 - INFO - Extraction [198/323]
+2026-01-13 00:44:00 - INFO - Extraction [199/323]
+2026-01-13 00:44:00 - INFO - Extraction [200/323]
+2026-01-13 00:44:00 - INFO - Extraction [201/323]
+2026-01-13 00:44:00 - INFO - Extraction [202/323]
+2026-01-13 00:44:00 - INFO - Extraction [203/323]
+2026-01-13 00:44:00 - INFO - Extraction [204/323]
+2026-01-13 00:44:01 - INFO - Extraction [205/323]
+2026-01-13 00:44:01 - INFO - Extraction [206/323]
+2026-01-13 00:44:01 - INFO - Extraction [207/323]
+2026-01-13 00:44:01 - INFO - Extraction [208/323]
+2026-01-13 00:44:01 - INFO - Extraction [209/323]
+2026-01-13 00:44:01 - INFO - Extraction [210/323]
+2026-01-13 00:44:02 - INFO - Extraction [211/323]
+2026-01-13 00:44:02 - INFO - Extraction [212/323]
+2026-01-13 00:44:02 - INFO - Extraction [213/323]
+2026-01-13 00:44:02 - INFO - Extraction [214/323]
+2026-01-13 00:44:02 - INFO - Extraction [215/323]
+2026-01-13 00:44:02 - INFO - Extraction [216/323]
+2026-01-13 00:44:02 - INFO - Extraction [217/323]
+2026-01-13 00:44:02 - INFO - Extraction [218/323]
+2026-01-13 00:44:02 - INFO - Extraction [219/323]
+2026-01-13 00:44:03 - INFO - Extraction [220/323]
+2026-01-13 00:44:03 - INFO - Extraction [221/323]
+2026-01-13 00:44:03 - INFO - Extraction [222/323]
+2026-01-13 00:44:03 - INFO - Extraction [223/323]
+2026-01-13 00:44:03 - INFO - Extraction [224/323]
+2026-01-13 00:44:03 - INFO - Extraction [225/323]
+2026-01-13 00:44:03 - INFO - Extraction [226/323]
+2026-01-13 00:44:04 - INFO - Extraction [227/323]
+2026-01-13 00:44:04 - INFO - Extraction [228/323]
+2026-01-13 00:44:04 - INFO - Extraction [229/323]
+2026-01-13 00:44:04 - INFO - Extraction [230/323]
+2026-01-13 00:44:04 - INFO - Extraction [231/323]
+2026-01-13 00:44:04 - INFO - Extraction [232/323]
+2026-01-13 00:44:05 - INFO - Extraction [233/323]
+2026-01-13 00:44:05 - INFO - Extraction [234/323]
+2026-01-13 00:44:05 - INFO - Extraction [235/323]
+2026-01-13 00:44:05 - INFO - Extraction [236/323]
+2026-01-13 00:44:05 - INFO - Extraction [237/323]
+2026-01-13 00:44:05 - INFO - Extraction [238/323]
+2026-01-13 00:44:05 - INFO - Extraction [239/323]
+2026-01-13 00:44:05 - INFO - Extraction [240/323]
+2026-01-13 00:44:06 - INFO - Extraction [241/323]
+2026-01-13 00:44:06 - INFO - Extraction [242/323]
+2026-01-13 00:44:06 - INFO - Extraction [243/323]
+2026-01-13 00:44:06 - INFO - Extraction [244/323]
+2026-01-13 00:44:07 - INFO - Extraction [245/323]
+2026-01-13 00:44:07 - INFO - Extraction [246/323]
+2026-01-13 00:44:07 - INFO - Extraction [247/323]
+2026-01-13 00:44:07 - INFO - Extraction [248/323]
+2026-01-13 00:44:07 - INFO - Extraction [249/323]
+2026-01-13 00:44:07 - INFO - Extraction [250/323]
+2026-01-13 00:44:07 - INFO - Extraction [251/323]
+2026-01-13 00:44:07 - INFO - Extraction [252/323]
+2026-01-13 00:44:07 - INFO - Extraction [253/323]
+2026-01-13 00:44:07 - INFO - Extraction [254/323]
+2026-01-13 00:44:08 - INFO - Extraction [255/323]
+2026-01-13 00:44:08 - INFO - Extraction [256/323]
+2026-01-13 00:44:08 - INFO - Extraction [257/323]
+2026-01-13 00:44:08 - INFO - Extraction [258/323]
+2026-01-13 00:44:08 - INFO - Extraction [259/323]
+2026-01-13 00:44:08 - INFO - Extraction [260/323]
+2026-01-13 00:44:08 - INFO - Extraction [261/323]
+2026-01-13 00:44:08 - INFO - Extraction [262/323]
+2026-01-13 00:44:08 - INFO - Extraction [263/323]
+2026-01-13 00:44:09 - INFO - Extraction [264/323]
+2026-01-13 00:44:09 - INFO - Extraction [265/323]
+2026-01-13 00:44:09 - INFO - Extraction [266/323]
+2026-01-13 00:44:09 - INFO - Extraction [267/323]
+2026-01-13 00:44:09 - INFO - Extraction [268/323]
+2026-01-13 00:44:09 - INFO - Extraction [269/323]
+2026-01-13 00:44:09 - INFO - Extraction [270/323]
+2026-01-13 00:44:09 - INFO - Extraction [271/323]
+2026-01-13 00:44:10 - INFO - Extraction [272/323]
+2026-01-13 00:44:10 - INFO - Extraction [273/323]
+2026-01-13 00:44:10 - INFO - Extraction [274/323]
+2026-01-13 00:44:10 - INFO - Extraction [275/323]
+2026-01-13 00:44:10 - INFO - Extraction [276/323]
+2026-01-13 00:44:10 - INFO - Extraction [277/323]
+2026-01-13 00:44:10 - INFO - Extraction [278/323]
+2026-01-13 00:44:11 - INFO - Extraction [279/323]
+2026-01-13 00:44:11 - INFO - Extraction [280/323]
+2026-01-13 00:44:11 - INFO - Extraction [281/323]
+2026-01-13 00:44:11 - INFO - Extraction [282/323]
+2026-01-13 00:44:11 - INFO - Extraction [283/323]
+2026-01-13 00:44:11 - INFO - Extraction [284/323]
+2026-01-13 00:44:11 - INFO - Extraction [285/323]
+2026-01-13 00:44:12 - INFO - Extraction [286/323]
+2026-01-13 00:44:12 - INFO - Extraction [287/323]
+2026-01-13 00:44:12 - INFO - Extraction [288/323]
+2026-01-13 00:44:12 - INFO - Extraction [289/323]
+2026-01-13 00:44:12 - INFO - Extraction [290/323]
+2026-01-13 00:44:13 - INFO - Extraction [291/323]
+2026-01-13 00:44:13 - INFO - Extraction [292/323]
+2026-01-13 00:44:13 - INFO - Extraction [293/323]
+2026-01-13 00:44:13 - INFO - Extraction [294/323]
+2026-01-13 00:44:13 - INFO - Extraction [295/323]
+2026-01-13 00:44:13 - INFO - Extraction [296/323]
+2026-01-13 00:44:13 - INFO - Extraction [297/323]
+2026-01-13 00:44:14 - INFO - Extraction [298/323]
+2026-01-13 00:44:14 - INFO - Extraction [299/323]
+2026-01-13 00:44:14 - INFO - Extraction [300/323]
+2026-01-13 00:44:14 - INFO - Extraction [301/323]
+2026-01-13 00:44:14 - INFO - Extraction [302/323]
+2026-01-13 00:44:14 - INFO - Extraction [303/323]
+2026-01-13 00:44:15 - INFO - Extraction [304/323]
+2026-01-13 00:44:15 - INFO - Extraction [305/323]
+2026-01-13 00:44:15 - INFO - Extraction [306/323]
+2026-01-13 00:44:15 - INFO - Extraction [307/323]
+2026-01-13 00:44:15 - INFO - Extraction [308/323]
+2026-01-13 00:44:15 - INFO - Extraction [309/323]
+2026-01-13 00:44:16 - INFO - Extraction [310/323]
+2026-01-13 00:44:16 - INFO - Extraction [311/323]
+2026-01-13 00:44:16 - INFO - Extraction [312/323]
+2026-01-13 00:44:16 - INFO - Extraction [313/323]
+2026-01-13 00:44:16 - INFO - Extraction [314/323]
+2026-01-13 00:44:16 - INFO - Extraction [315/323]
+2026-01-13 00:44:17 - INFO - Extraction [316/323]
+2026-01-13 00:44:17 - INFO - Extraction [317/323]
+2026-01-13 00:44:17 - INFO - Extraction [318/323]
+2026-01-13 00:44:17 - INFO - Extraction [319/323]
+2026-01-13 00:44:17 - INFO - Extraction [320/323]
+2026-01-13 00:44:17 - INFO - Extraction [321/323]
+2026-01-13 00:44:18 - INFO - Extraction [322/323]
+2026-01-13 00:44:18 - INFO - Extraction [323/323]
+2026-01-13 00:44:18 - INFO - Saved 323 total records to clubs_list.csv
+2026-01-13 00:44:18 - INFO - Club data saved to clubs_list.csv
+
+
+2026-01-13 10:03:38 - INFO - Start extracting clubs info
+2026-01-13 10:03:38 - INFO - Read file: clubs_list.csv
+2026-01-13 10:03:38 - INFO - Found 323 product URLs to extract product info
+2026-01-13 10:03:39 - INFO - Extracting product [1/323] info, url: **URL**
+2026-01-13 10:03:42 - INFO - Extraction using requests was successful
+2026-01-13 10:03:54 - INFO - Start Selenium for dynamic content
+2026-01-13 10:03:54 - INFO - Popup closed successfully
+2026-01-13 10:03:58 - INFO - Clicked Installation tab
+2026-01-13 10:04:01 - INFO - Clicked Comité tab
+2026-01-13 10:04:01 - INFO - Extraction successful
+2026-01-13 10:04:01 - INFO - Extracting product [2/323] info, url: **URL**
+2026-01-13 10:04:04 - INFO - Extraction using requests was successful
+2026-01-13 10:04:09 - INFO - Start Selenium for dynamic content
+2026-01-13 10:04:12 - INFO - Clicked Installation tab
+2026-01-13 10:04:14 - INFO - Clicked Comité tab
+2026-01-13 10:04:15 - INFO - Extraction successful
+2026-01-13 10:04:15 - INFO - Extracting product [3/323] info, url: **URL**
+2026-01-13 10:04:17 - INFO - Extraction using requests was successful
+2026-01-13 10:04:26 - INFO - Start Selenium for dynamic content
+2026-01-13 10:04:28 - INFO - Clicked Installation tab
+2026-01-13 10:04:32 - INFO - Clicked Comité tab
+2026-01-13 10:04:33 - INFO - Extraction successful
+2026-01-13 10:04:33 - INFO - Extracting product [4/323] info, url: **URL**
+2026-01-13 10:04:35 - INFO - Extraction using requests was successful
+2026-01-13 10:04:53 - INFO - Start Selenium for dynamic content
+2026-01-13 10:04:55 - INFO - Clicked Installation tab
+2026-01-13 10:04:58 - INFO - Clicked Comité tab
+2026-01-13 10:04:59 - INFO - Extraction successful
+2026-01-13 10:04:59 - INFO - Extracting product [5/323] info, url: **URL**
+2026-01-13 10:05:01 - INFO - Extraction using requests was successful
+2026-01-13 10:05:06 - INFO - Start Selenium for dynamic content
+2026-01-13 10:05:09 - INFO - Clicked Installation tab
+2026-01-13 10:05:12 - INFO - Clicked Comité tab
+2026-01-13 10:05:13 - INFO - Extraction successful
+2026-01-13 10:05:13 - INFO - Extracting product [6/323] info, url: **URL**
+2026-01-13 10:05:16 - INFO - Extraction using requests was successful
+2026-01-13 10:05:22 - INFO - Start Selenium for dynamic content
+2026-01-13 10:05:25 - INFO - Clicked Installation tab
+2026-01-13 10:05:27 - INFO - Clicked Comité tab
+2026-01-13 10:05:29 - INFO - Extraction successful
+2026-01-13 10:05:29 - INFO - Extracting product [7/323] info, url: **URL**
+2026-01-13 10:05:33 - INFO - Extraction using requests was successful
+2026-01-13 10:05:38 - INFO - Start Selenium for dynamic content
+2026-01-13 10:05:40 - INFO - Clicked Installation tab
+2026-01-13 10:05:44 - INFO - Clicked Comité tab
+2026-01-13 10:05:45 - INFO - Extraction successful
+2026-01-13 10:05:45 - INFO - Extracting product [8/323] info, url: **URL**
+2026-01-13 10:05:48 - INFO - Extraction using requests was successful
+2026-01-13 10:05:58 - INFO - Start Selenium for dynamic content
+2026-01-13 10:06:01 - INFO - Clicked Installation tab
+2026-01-13 10:06:04 - INFO - Clicked Comité tab
+2026-01-13 10:06:04 - INFO - Extraction successful
+2026-01-13 10:06:04 - INFO - Extracting product [9/323] info, url: **URL**
+2026-01-13 10:06:07 - INFO - Extraction using requests was successful
+2026-01-13 10:06:21 - INFO - Start Selenium for dynamic content
+2026-01-13 10:06:23 - INFO - Clicked Installation tab
+2026-01-13 10:06:27 - INFO - Clicked Comité tab
+2026-01-13 10:06:30 - INFO - Extraction successful
+2026-01-13 10:06:30 - INFO - Extracting product [10/323] info, url: **URL**
+2026-01-13 10:06:33 - INFO - Extraction using requests was successful
+2026-01-13 10:06:38 - INFO - Start Selenium for dynamic content
+2026-01-13 10:06:41 - INFO - Clicked Installation tab
+2026-01-13 10:06:44 - INFO - Clicked Comité tab
+2026-01-13 10:06:45 - INFO - Extraction successful
+2026-01-13 10:06:45 - INFO - Saved partial CSV after 10 clubs
+...
+...
+2026-01-13 11:10:37 - INFO - Saved 323 total records to clubs_list_info.csv
